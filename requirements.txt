@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+watchfiles
+psycopg[binary]
+SQLAlchemy>=2.0
