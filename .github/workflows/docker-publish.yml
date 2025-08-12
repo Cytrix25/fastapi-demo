@@ -25,7 +25,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v5
         with:
-          images: cytrix25/fastapi-demo
+          images: cytrix52/fastapi-demo
           tags: |
             type=raw,value=latest
             type=sha
